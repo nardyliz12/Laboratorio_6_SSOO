@@ -1,4 +1,4 @@
-## EJERCICIO 1.1: Navegación y Gestión de Archivos
+## EJERCICIO 1: Navegación y Gestión de Archivos
 
 Uno de los primeros pasos es crear la estructura de nuestro directorio que viene a ser de la siguiente forma:
 
