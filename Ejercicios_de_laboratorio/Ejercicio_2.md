@@ -5,7 +5,9 @@
 touch ~/laboratorio/datos/registro.log # Crear el archivo en el directorio de "datos".
 nano ~/laboratorio/datos/registro.log #Para colocar las 20 lineas de texto dentro del archivo
 ```
-![imagen](https://github.com/user-attachments/assets/59d2fff3-9d77-45fb-b021-b6c5c052f5e3)
+|              |         |
+|---------------|-----------|
+|![imagen](https://github.com/user-attachments/assets/59d2fff3-9d77-45fb-b021-b6c5c052f5e3)|![imagen](https://github.com/user-attachments/assets/3e22a659-c028-4527-be76-7f10b5314641)|
 
 - Para visualizar el contenido completo
 ```
@@ -46,6 +48,7 @@ cat ~/laboratorio/datos/registro.log # Para visualizar los cambios
 ```
 ![imagen](https://github.com/user-attachments/assets/04b22174-4280-4d4f-b07d-1c6086a085d4)
 
-![imagen](https://github.com/user-attachments/assets/3e22a659-c028-4527-be76-7f10b5314641)
+- Como se puede visualizar se realizó el cambio correspondiente a nuestro archivo "registro.log".
+
 
 
