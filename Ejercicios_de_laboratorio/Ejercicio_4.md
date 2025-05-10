@@ -7,9 +7,9 @@ cat ~/laboratorio/todos_procesos.txt # Para visualizar el resultado
 ```
 ![imagen](https://github.com/user-attachments/assets/34def319-b0f3-4584-b16a-db4b6a6564db)
 
-- Para este caso, se utilizó el comando de "ps aux", que nos permite mostrar todos los procesos del sistema con detalles, tales como el usuario, CPU, memoria, etc, asimismo, la expresión ">" nos ayuda a redigir la salida al archivo, que en este caso es el archhivo de "todos_procesos.txt".
+- Para este caso, se utilizó el comando de "ps aux", que nos permite mostrar todos los procesos del sistema con detalles, tales como el usuario, CPU, memoria, etc, asimismo, la expresión ">" nos ayuda a redigir la salida al archivo, que en este caso es el archivo de "todos_procesos.txt".
 
-### 2. Filtra los proccesos que pertenen a tu usuario y guárdalos en archivo separado
+### 2. Filtra los proccesos que pertenecen a tu usuario y guárdalos en archivo separado
 ```
 grep '^nardy' ~/laboratorio/todos_procesos.txt > ~/laboratorio/procesos_usuario.txt
 
