@@ -32,6 +32,8 @@ echo "Respaldo exitoso: $DIR_DESTINO/$ARCHIVO_BACKUP"
 echo "Tamaño del archivo:"
 du -h "$DIR_DESTINO/$ARCHIVO_BACKUP"
 ```
+![Captura de pantalla 2025-05-08 052921](https://github.com/user-attachments/assets/e6e5e8f6-8d7a-4743-a9f9-257bff19e842)
+
 ### 2. Prueba el script con diferentes directorios 
 ```
 chmod +x ~/laboratorio/backup.sh
