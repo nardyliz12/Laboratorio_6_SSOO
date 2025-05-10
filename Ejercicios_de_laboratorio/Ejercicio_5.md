@@ -16,7 +16,7 @@ ls ~/laboratorio/privado
 
 ![imagen](https://github.com/user-attachments/assets/2398daf5-d46c-41aa-bba5-5ca2faa5c070)
 
-- Comando "touch" se creo correctamente el archivo "confidencial.txt", dentro del direcotrio "privado".
+- Comando "touch" se creo correctamente el archivo "confidencial.txt", dentro del directorio "privado".
 
 ### 3. Configura permisos para que: solo tú puedas leer y escribir el archivo (no ejecutar), nadie más pueda hacer nada con él
 ```
