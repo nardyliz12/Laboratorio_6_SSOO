@@ -1,14 +1,14 @@
 ## EJERCICIO 1: Navegación y Gestión de Archivos
 
 Uno de los primeros pasos es crear la estructura de nuestro directorio que viene a ser de la siguiente forma:
-
+```
 ~/laboratorio/ 
 |---- datos/ 
 |        |-----entrada/ 
 |        |-----salida/ 
 |-----scripts/ 
 |-----respaldo 
-
+````
 Para ello en el terminal usamos los sigueintes comandos de linux.
 
 ```
@@ -25,6 +25,10 @@ ls -R ~/laboratorio
 ![imagen](https://github.com/user-attachments/assets/d4d7f96c-4760-4ee5-b32d-7157352b7df9)
 
 - Ahi podemos visualizar que nuestro directorio se ha creado correctamente.
+
+|Direcotrio "laboratorio" |Directorrio "entrada" | 
+|--------------------|------------------------------|  
+|![imagen](https://github.com/user-attachments/assets/e49f81aa-3f5d-4410-86fd-892a31e91e17) |![imagen](https://github.com/user-attachments/assets/5902a801-5529-4702-a831-4f3b84fa7ed0)|
 
 ### 1. Navegar entre los diferentes directorios:
 ```
@@ -55,6 +59,8 @@ ls -la ~/laboratorio/respaldo/        # Mostrar contenido de respaldo
 
 - En este caso también se puede observar que el archivo "datos1.txt" se ha copiado en el directorio de "respaldo".
 
+![imagen](https://github.com/user-attachments/assets/1a3bf81e-1b22-40a6-b350-7ab0023279e8)
+
 ### 4. Mover "config.cfg" al directorio raíz del laboratorio:
 ```
 mv ~/laboratorio/datos/entrada/config.cfg ~/laboratorio/
@@ -75,9 +81,9 @@ ls -la ~/laboratorio/datos/entrada/ # "datos2.txt" ya no debe aparecer
 
 - Como se puede visualizar el archivo "datos2.txt" ha desaparecido de nuestro directorio de "entrada".
 
-![imagen](https://github.com/user-attachments/assets/e49f81aa-3f5d-4410-86fd-892a31e91e17)
-![imagen](https://github.com/user-attachments/assets/5902a801-5529-4702-a831-4f3b84fa7ed0)
-![imagen](https://github.com/user-attachments/assets/1a3bf81e-1b22-40a6-b350-7ab0023279e8)
+
+
+
 ![imagen](https://github.com/user-attachments/assets/c2fa656c-5cb7-4cc8-a336-5cccb8d50632)
 
 
